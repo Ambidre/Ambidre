@@ -20,16 +20,14 @@ Here are some ideas to get you started:
 
 Welcome to my page!
 I'm Anastasia, Manual QA engineer from Russia
-- 🌱 I’m currently learning QA Automation school (qa.guru)
-
-![Profile views](https://gpvc.arturio.dev/Ambidre)  
+🌱 I’m currently learning at QA Automation school (qa.guru)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ambidre)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ambidre/)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ambidre)  
+![Profile views](https://gpvc.arturio.dev/Ambidre)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ambidre)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub metrics](https://metrics.lecoq.io/Ambidre)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ambidre)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ambidre&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/Ambidre)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ambidre&show_icons=true) 
+
