@@ -6,33 +6,33 @@ I'm Anastasia, Manual QA engineer from Russia
 
 🌱 I’m currently learning at QA Automation school (qa.guru)
 
-## 📈 Some of my Github Stats
-
-![Profile views](https://gpvc.arturio.dev/Ambidre)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ambidre&show_icons=true&theme=nightowl ) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ambidre&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=BA55D3)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=BA55D3)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=BA55D3)
+<p  align="center"
+
+<code><img width="5%" title="IntelliJ IDEA" src="https://starchenkov.pro/qa-guru/img/skills/Intelij_IDEA.svg"></code>
+<code><img width="5%" title="Java" src="https://starchenkov.pro/qa-guru/img/skills/Java.svg"></code>
+<code><img width="5%" title="Selenium" src="https://starchenkov.pro/qa-guru/img/skills/Selenium.svg"></code>
+<code><img width="5%" title="Selenide" src="https://starchenkov.pro/qa-guru/img/skills/Selenide.svg"></code>
+<code><img width="5%" title="Allure Report" src="https://starchenkov.pro/qa-guru/img/skills/Allure_Report.svg"></code>
+<code><img width="5%" title="Allure TestOps" src="https://starchenkov.pro/qa-guru/img/skills/Allure_EE.svg"></code>
+<code><img width="5%" title="Gradle" src="https://starchenkov.pro/qa-guru/img/skills/Gradle.svg"></code>
+<code><img width="5%" title="JUnit5" src="https://starchenkov.pro/qa-guru/img/skills/JUnit5.svg"></code>
+<code><img width="5%" title="Github" src="https://starchenkov.pro/qa-guru/img/skills/Github.svg"></code>
+<code><img width="5%" title="Jenkins" src="https://starchenkov.pro/qa-guru/img/skills/Jenkins.svg"></code>
+<code><img width="5%" title="Rest-Assured" src="https://starchenkov.pro/qa-guru/img/skills/Rest-Assured.svg"></code>
+<code><img width="5%" title="Appium" src="https://starchenkov.pro/qa-guru/img/skills/Appium.svg"></code>
+<code><img width="5%" title="Browserstack" src="https://starchenkov.pro/qa-guru/img/skills/Browserstack.svg"></code>
+
+</p>
+
+## 📈 Some of my Github Stats
 
 
-![](https://img.shields.io/badge/Test-Selenium-informational?style=flat&logo=Selenium&logoColor=white&color=BA55D3)
-![](https://img.shields.io/badge/Test-Selenide-informational?style=flat&logo=Selenide&logoColor=white&color=BA55D3)
-![](https://img.shields.io/badge/Test-Selenoid-informational?style=flat&logo=Selenoid&logoColor=white&color=BA55D3)
-![](https://img.shields.io/badge/Test-JUnit5-informational?style=flat&logo=JUnit5&logoColor=white&color=BA55D3)
+<p align="center">
+<a><img width="45%"   alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ambidre&show_icons=true&line_height=35&icon_color=1CC074&include_all_commits=true&theme=buefy&hide_border=true"/></a>
+<a><img width="45%"  alt="My Github languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ambidre&layout=compact"/></a>
+</p>
 
-  
-![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=BA55D3)
-![](https://img.shields.io/badge/Tools-Allure-informational?style=flat&logo=Allure&logoColor=white&color=BA55D3)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=BA55D3)
-![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=BA55D3)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=BA55D3)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=red&color=BA55D3)
+
 
